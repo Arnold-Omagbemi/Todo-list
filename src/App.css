@@ -138,3 +138,13 @@ select {
   transform: scale(1.5);
 }
 */
+/*----------------------------------------Responsiveness---------------------------------------*/
+@media screen and (max-width: 768px) {
+  form input{
+  width: 15rem;
+  margin-left: 9px;
+}
+.select{
+  width: 8rem;
+ }
+}
