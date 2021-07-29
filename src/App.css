@@ -147,4 +147,8 @@ select {
 .select{
   width: 8rem;
  }
+ .filter-todo {
+  font-size: 0.5rem;
+  
+}
 }
