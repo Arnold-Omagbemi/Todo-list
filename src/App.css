@@ -145,10 +145,7 @@ select {
   margin-left: 9px;
 }
 .select{
-  width: 8rem;
+  width: 10rem;
  }
- .filter-todo {
-  font-size: 0.5rem;
-  
-}
+ 
 }
