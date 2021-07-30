@@ -147,5 +147,10 @@ select {
 .select{
   width: 10rem;
  }
- 
+}
+
+@media screen and (max-width: 600px) {
+  form input {
+    width: 10rem;
+  }
 }
